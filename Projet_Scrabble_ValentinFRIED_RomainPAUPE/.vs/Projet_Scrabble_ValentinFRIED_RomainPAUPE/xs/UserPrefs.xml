@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9BFD2E94-E59E-41E5-B8CF-552AE9E9934A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Projet_Scrabble_ValentinFRIED_RomainPAUPE/Jeu.cs">
+    <Files>
+      <File FileName="Projet_Scrabble_ValentinFRIED_RomainPAUPE/Jeu.cs" Line="10" Column="36" />
+      <File FileName="Projet_Scrabble_ValentinFRIED_RomainPAUPE/Program.cs" Line="52" Column="40" />
+      <File FileName="Projet_Scrabble_ValentinFRIED_RomainPAUPE/Joueur.cs" Line="1" Column="1" />
+      <File FileName="Projet_Scrabble_ValentinFRIED_RomainPAUPE/Plateau.cs" Line="1" Column="1" />
+      <File FileName="Projet_Scrabble_ValentinFRIED_RomainPAUPE/Sac_Jetons.cs" Line="11" Column="33" />
+      <File FileName="Projet_Scrabble_ValentinFRIED_RomainPAUPE/Jeton.cs" Line="1" Column="1" />
+      <File FileName="Projet_Scrabble_ValentinFRIED_RomainPAUPE/Dictionnaire.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projet_Scrabble_ValentinFRIED_RomainPAUPE" expanded="True">
+            <Node name="Projet_Scrabble_ValentinFRIED_RomainPAUPE" expanded="True">
+              <Node name="Jeu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Projet__Scrabble__ValentinFRIED__RomainPAUPE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
