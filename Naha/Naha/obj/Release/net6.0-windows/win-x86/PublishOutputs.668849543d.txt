@@ -1,0 +1,7 @@
+C:\Users\rpaup\Desktop\Naha.pdb
+C:\Users\rpaup\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\rpaup\Desktop\PenImc_cor3.dll
+C:\Users\rpaup\Desktop\PresentationNative_cor3.dll
+C:\Users\rpaup\Desktop\vcruntime140_cor3.dll
+C:\Users\rpaup\Desktop\wpfgfx_cor3.dll
+C:\Users\rpaup\Desktop\Naha.exe

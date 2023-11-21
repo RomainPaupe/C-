@@ -1,0 +1,8 @@
+C:\Users\rpaup\Desktop\Visual Studio\Voltorbataille\Voltorbataille\bin\Debug\Voltorbataille.exe.config
+C:\Users\rpaup\Desktop\Visual Studio\Voltorbataille\Voltorbataille\bin\Debug\Voltorbataille.exe
+C:\Users\rpaup\Desktop\Visual Studio\Voltorbataille\Voltorbataille\bin\Debug\Voltorbataille.pdb
+C:\Users\rpaup\Desktop\Visual Studio\Voltorbataille\Voltorbataille\obj\Debug\Voltorbataille.csproj.AssemblyReference.cache
+C:\Users\rpaup\Desktop\Visual Studio\Voltorbataille\Voltorbataille\obj\Debug\Voltorbataille.csproj.SuggestedBindingRedirects.cache
+C:\Users\rpaup\Desktop\Visual Studio\Voltorbataille\Voltorbataille\obj\Debug\Voltorbataille.csproj.CoreCompileInputs.cache
+C:\Users\rpaup\Desktop\Visual Studio\Voltorbataille\Voltorbataille\obj\Debug\Voltorbataille.exe
+C:\Users\rpaup\Desktop\Visual Studio\Voltorbataille\Voltorbataille\obj\Debug\Voltorbataille.pdb

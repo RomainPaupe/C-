@@ -1,0 +1,8 @@
+C:\Users\rpaup\Desktop\Visual Studio\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\rpaup\Desktop\Visual Studio\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\rpaup\Desktop\Visual Studio\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\rpaup\Desktop\Visual Studio\Huffman\Huffman\obj\Debug\Huffman.csproj.AssemblyReference.cache
+C:\Users\rpaup\Desktop\Visual Studio\Huffman\Huffman\obj\Debug\Huffman.csproj.SuggestedBindingRedirects.cache
+C:\Users\rpaup\Desktop\Visual Studio\Huffman\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\rpaup\Desktop\Visual Studio\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\rpaup\Desktop\Visual Studio\Huffman\Huffman\obj\Debug\Huffman.pdb

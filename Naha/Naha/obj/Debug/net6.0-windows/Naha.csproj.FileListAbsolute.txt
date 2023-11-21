@@ -1,0 +1,46 @@
+C:\Users\rpaup\Desktop\Naha\Naha\bin\Debug\net6.0-windows\Naha.exe
+C:\Users\rpaup\Desktop\Naha\Naha\bin\Debug\net6.0-windows\Naha.deps.json
+C:\Users\rpaup\Desktop\Naha\Naha\bin\Debug\net6.0-windows\Naha.runtimeconfig.json
+C:\Users\rpaup\Desktop\Naha\Naha\bin\Debug\net6.0-windows\Naha.dll
+C:\Users\rpaup\Desktop\Naha\Naha\bin\Debug\net6.0-windows\Naha.pdb
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.csproj.AssemblyReference.cache
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.csproj.GenerateResource.cache
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.AssemblyInfoInputs.cache
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.AssemblyInfo.cs
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.csproj.CoreCompileInputs.cache
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.dll
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\refint\Naha.dll
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.pdb
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.genruntimeconfig.cache
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\ref\Naha.dll
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.acceuil.resources
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.Menu.resources
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.RapCover.resources
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.Morpion.resources
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.Properties.Resources.resources
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.Pacman.resources
+C:\Users\rpaup\Desktop\Naha\Naha\obj\Debug\net6.0-windows\Naha.Kendama.resources
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\bin\Debug\net6.0-windows\Naha.exe
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\bin\Debug\net6.0-windows\Naha.deps.json
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\bin\Debug\net6.0-windows\Naha.runtimeconfig.json
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\bin\Debug\net6.0-windows\Naha.dll
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\bin\Debug\net6.0-windows\Naha.pdb
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.csproj.AssemblyReference.cache
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.acceuil.resources
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.Menu.resources
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.Kendama.resources
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.Morpion.resources
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.Pacman.resources
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.Properties.Resources.resources
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.RapCover.resources
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.csproj.GenerateResource.cache
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.AssemblyInfoInputs.cache
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.AssemblyInfo.cs
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.csproj.CoreCompileInputs.cache
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.dll
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\refint\Naha.dll
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.pdb
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\Naha.genruntimeconfig.cache
+C:\Users\rpaup\Desktop\Visual Studio\Naha\Naha\obj\Debug\net6.0-windows\ref\Naha.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7zNGH+ZfRHDrIf6P0v7M5yeNj77VLXzGTSonK14dOWGAf1v5iUhEzH86msBTWSY5ozHt6RyJsvFtqh3sEx03OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rpaup\\Desktop\\Naha\\Naha\\Naha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rpaup\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.4\\microsoft.netcore.app.runtime.win-x86.6.0.4.nupkg.sha512",
+    "C:\\Users\\rpaup\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.4.nupkg.sha512",
+    "C:\\Users\\rpaup\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.4\\microsoft.aspnetcore.app.runtime.win-x86.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
